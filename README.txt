@@ -1,4 +1,11 @@
+Before doing anything, run setup.bat which installs needed imports
 To run the program, run daily_tasks.py
+
+[EN] Custom commands:
+#getProgrammer / #programmer - returns who programmed the application and returns linkedin profile
+#getHistory - returns history in readable format, also with dates
+#getCurrent - returns data that are entered in the program at the moment, also with dates
+#getSession - returns all session data, all commands and all clicks that were done in that session
 
 [CZ] Vlastní příkazy: 
 #getProgrammer / #programmer - vrátí programátora a kontakt na něj
@@ -7,8 +14,3 @@ To run the program, run daily_tasks.py
 #getSession - vrátí všechnu činnost provedenou v dané session, každá session se vždy po
 	znovuotevření programu restartuje
 	
-[EN] Custom commands:
-#getProgrammer / #programmer - returns who programmed the application and returns linkedin profile
-#getHistory - returns history in readable format, also with dates
-#getCurrent - returns data that are entered in the program at the moment, also with dates
-#getSession - returns all session data, all commands and all clicks that were done in that session
