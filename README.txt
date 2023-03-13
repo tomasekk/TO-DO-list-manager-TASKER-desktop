@@ -1,3 +1,5 @@
+Program is run by daily_tasks.py which is the MAIN part
+
 Custom commands: 
 #getProgrammer / #programmer - vrátí programátora a kontakt na něj
 #getHistory - vrátí historii v čitelném formátu s daty odebrání ze seznamu
